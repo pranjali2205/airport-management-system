@@ -1,5 +1,4 @@
--- Airport Management System --
--- DB Design Fall 2016--
+-
 
 CREATE TABLE CITY
 (CNAME VARCHAR2(15) NOT NULL,
